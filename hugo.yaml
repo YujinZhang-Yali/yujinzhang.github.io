@@ -1,7 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
 title: "Yujin Zhang"
-theme: ""
 
 disableKinds:
   - taxonomy
