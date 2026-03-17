@@ -94,6 +94,41 @@ nav {
   font-size: 0.85rem;
 }
 
+.sidebar-conferences {
+  margin-top: 1.2rem;
+  font-size: 0.85rem;
+  color: #777;
+  width: 100%;
+}
+
+.sidebar-conferences h4 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.conf-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #f0f0f0;
+  text-align: center;
+}
+
+.conf-name {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #555;
+}
+
+.conf-date {
+  font-size: 0.83rem;
+  color: #777;
+}
+
 .sidebar-links a { color: #2a5db0; }
 
 /* ── Main content ────────────────────────────────── */
